@@ -1,0 +1,27 @@
+_repo: Akbar--een-oosterse-roman_6712
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brouwer, P. A. S. van Limburg (Petrus Abraham Samuel van Limburg)
+    alias: Brouwer, Petrus Abraham Samuel van Limburg
+    birthdate: 1829
+    deathdate: 1873
+    gutenberg_agent_id: '2171'
+    url: http://www.gutenberg.org/2009/agents/2171
+    wikipedia: http://eo.wikipedia.org/wiki/Petrus_Abraham_Samuel_van_Limburg_Brouwer
+description: ''
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6712'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Akbar, Emperor of Hindustan, 1542-1605 -- Fiction'
+- !lcsh 'Brouwer, P. A. S. van Limburg (Petrus Abraham Samuel van Limburg), 1829-1873'
+- GITenberg
+title: 'Akbar: een oosterse roman'
+url: http://www.gutenberg.org/ebooks/6712
