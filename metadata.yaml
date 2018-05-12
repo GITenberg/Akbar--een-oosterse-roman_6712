@@ -1,5 +1,8 @@
 _repo: Akbar--een-oosterse-roman_6712
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brouwer, P. A. S. van Limburg (Petrus Abraham Samuel van Limburg)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2171
     wikipedia: http://eo.wikipedia.org/wiki/Petrus_Abraham_Samuel_van_Limburg_Brouwer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6712#Akbar--een-oosterse-roman
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
 identifiers:
